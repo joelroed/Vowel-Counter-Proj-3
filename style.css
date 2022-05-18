@@ -5,3 +5,38 @@
     border: 0 solid;
     font-family: "Robot", sans-serif;
 }
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.blue {
+    color: rgb(31, 138, 238);
+}
+
+.input__main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__input--cl {
+    border: 2px rgba(28, 149, 158, 0.363) solid;
+    border-radius: 4px;
+    padding-right: 100ch;
+}
+
+.btn__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.main__btn {
+    
+}
